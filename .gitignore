@@ -1,3 +1,4 @@
 *.ppm
 *.png
 wlt-tests
+premake5*
