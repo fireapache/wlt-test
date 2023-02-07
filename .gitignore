@@ -2,3 +2,7 @@
 *.png
 wlt-tests
 premake5*
+.vs/
+WltTest.*
+bin/
+obj/
