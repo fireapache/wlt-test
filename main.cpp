@@ -10,7 +10,7 @@ int main( int argc, char** argv )
 		return 0;
 	}
 
-	compressionQuality = atof( argv[ 1 ] );
+	compressionQuality = static_cast< float >( atof( argv[ 1 ] ) );
 
 	if ( compressionQuality <= 0.f
 		|| compressionQuality >= 1.f )
