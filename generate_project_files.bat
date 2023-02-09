@@ -2,7 +2,7 @@
 
 ECHO.
 ECHO ==========================================================
-ECHO ======   Generating Bagual Engine Project Files... =======
+ECHO =======   Generating WLT Library Project Files... ========
 ECHO ==========================================================
 ECHO.
 
